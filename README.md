@@ -1,8 +1,8 @@
-## Hi, I'm [Tom](https://kamitom.github.io/tiny.web/)
+## Hi, I'm [Tom](https://kamitom.github.io/tiny.web/) 👨🏻‍💻
 
 <br/>
 
-Hi, 我所熟悉的技術工具如下:
+Hi, 我所熟悉的技術工具如下: ✍🏻 
 
 **Languages and Tools:**  
 
