@@ -21,6 +21,6 @@
 
 <a href="https://github.com/kamitom/tiny.web">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamitom&repo=kamitom.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamitom&repo=kamitom.github.io/tiny.web&theme=radical" />
 </a>
 
