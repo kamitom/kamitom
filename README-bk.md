@@ -1,3 +1,4 @@
+
 ## Hi there, I'm [CSW](https://kamitom.github.io/tiny.web/) 👨🏻‍💻
 
 <br/>
@@ -15,9 +16,12 @@
 *Note: Top languages about CSW*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamitom&layout=compact&theme=radical" />
 </a>
 
 <a href="https://github.com/kamitom/tiny.web">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamitom&repo=github.com/kamitom/tiny.web&theme=radical" />
 </a>
+
