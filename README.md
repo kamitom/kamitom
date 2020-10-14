@@ -19,7 +19,7 @@
 
 *Note: Top languages about CSW*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/kamitom/kamitom">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamitom&layout=compact&theme=radical" />
 </a>
 
